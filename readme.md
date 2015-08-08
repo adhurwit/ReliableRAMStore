@@ -1,6 +1,6 @@
 #ReliableRAMStore
 
-A set of classes that uses the ServiceFabric ReliableDictoinary to store Lucene.NET v3 indices. It is directly based on the existing RAMStore classes. 
+A set of classes that uses the ServiceFabric ReliableDictionary to store Lucene.NET v3 indices. It is directly based on the existing RAMStore classes. 
 
 This is only a proof of concept.
 
