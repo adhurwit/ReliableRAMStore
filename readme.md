@@ -4,7 +4,7 @@ A set of classes that uses the ServiceFabric ReliableDictionary to store Lucene.
 
 This is only a proof of concept.
 
-This works in conjunction with SearchFabric - a scalable, fault-tolerant search engine. 
+This works in conjunction with [SearchFabric](https://github.com/adhurwit/SearchFabric) - a scalable, fault-tolerant search engine. 
 
 
 **Please let me know if you are interested in moving this forward**
